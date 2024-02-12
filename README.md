@@ -20,7 +20,3 @@ Cara menggunakan Tailwind CSS dalam proyek Anda:
 ## Kontribusi
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat _pull request_.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Nama Lisensi].
